@@ -18,6 +18,8 @@ To achieve this task-tracker application the following were involved:
 6. Creation, manipulation and styling of DOM elements.
 7. Use of DOM API methods to select and generate HTML elements and content. 
 8. Traversing the DOM and manipulation of elements.
+9. Use of localStorage to maintain persistence.
+10. Refactor of codebase to accomodate persistence.
 ## Technologies
 
 HTML, CSS, JavaScript, Web Storage API, Git and GitHub
