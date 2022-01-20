@@ -1,8 +1,8 @@
 # Taskinator
 
-###Deployed Link
+### Deployed Link
 
-##Description
+## Description
 
 This project entailed building a task-tracker application. This task-tracker will allow the user to create tasks by entering a task name into the application, selecting a type, and clicking an "Add Task" button to organize these tasks into the following lists by using dropdown menus to change task status:
 - Tasks To Do
